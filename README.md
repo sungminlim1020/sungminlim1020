@@ -12,16 +12,16 @@ Software Developer | Android · Backend · AI
 ### Tech Stack
 
 **Languages**
-`Kotlin` `Java` `C++` `Python`
+`Kotlin` `Java` `C++` `Python` `JavaScript` `HTML5`
 
 **Backend / Database**
-`Firebase` `MySQL`
+`Firebase` `MySQL` `Node.js``PHP` `Laravel` `AWS`
 
 **AI / ML**
-`TensorFlow Lite` `MoveNet`
+`TensorFlow Lite` `MoveNet` `Chat GPT` `Claude` `Gemini`
 
 **Tools**
-`Git` `GitHub` `Android Studio` `VS Code`
+`Git` `GitHub` `Android Studio` `VS Code` `Xcode`
 
 ---
 
@@ -38,6 +38,16 @@ Kotlin으로 개발한 Android 앱으로, TensorFlow Lite MoveNet을 이용한 �
 - 연습 모드 / 날짜 기반 운동 계획 / 오늘의 운동 체크리스트
 - Firebase Cloud Functions를 통한 AI 식단 추천 (API 키는 서버에서만 관리)
 
+**[Nonmoon](https://github.com/sungminlim1020/nonmoon)**
+논문 레퍼런스 정리 및 협업 플랫폼 · 팀 프로젝트
+
+논문과 인용 정보를 모아 정리하고, 그룹 단위로 연구 자료를 함께 관리할 수 있는 웹 서비스입니다. 4인 팀으로 개발했으며, 저는 로그인·회원가입과 그룹 및 팀원 초대·관리 기능을 담당했습니다.
+
+- React, Node.js, MySQL 기반 웹 서비스
+- 사용자 인증 및 세션 기반 로그인 흐름 구현
+- 그룹 생성과 팀원 초대·관리 기능 개발
+- 논문 자료와 인용 정보를 팀 단위로 정리하는 협업 경험
+
 **[CodiShoes](https://github.com/sungminlim1020/CodiShoes)**  
 
 AI 기반 개인 맞춤형 신발 추천 및 코디 관리 Android 애플리케이션
@@ -50,7 +60,7 @@ Tech: Kotlin Android Firebase MySQL AI API GitHub
 
 ### Currently Learning
 
-Backend Development · Database · Linux · Cloud · AI · ChatGPT
+Software Develop · APP Develop · Backend Development · Database · Linux · Cloud · AI · ChatGPT
 
 ---
 
