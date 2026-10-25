@@ -48,6 +48,17 @@ Kotlin으로 개발한 Android 앱으로, TensorFlow Lite MoveNet을 이용한 �
 - 그룹 생성과 팀원 초대·관리 기능 개발
 - 논문 자료와 인용 정보를 팀 단위로 정리하는 협업 경험
 
+ **[AJAJA](https://github.com/sungminlim1020/AJAJA)**
+출석·숙제·학습 현황을 통합 관리하는 Android 앱 
+
+코딩학원에서 반복되는 출석 확인과 숙제 검토를 줄이고, 학생별 학습 현황을 살펴볼 수 있도록 만든 앱입니다.
+
+- Kotlin과 Android 기반 앱 개발
+- MTCNN·FaceNet·SVM을 활용한 얼굴 인식 출석 기능
+- CNN 기반 필기 감지 및 글씨 강도 분류
+- TensorFlow Lite를 활용한 모바일 추론 적용
+- 주간·월간 과제 제출 현황 리포트 제공
+
 **[CodiShoes](https://github.com/sungminlim1020/CodiShoes)**  
 
 AI 기반 개인 맞춤형 신발 추천 및 코디 관리 Android 애플리케이션
